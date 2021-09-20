@@ -82,10 +82,10 @@ int main(int argc, char *argv[])
 
     Pila pila;
 
-    pila.push("Zeus");
-    pila.push("Kronos");
-    pila.push("Hefesto");
-    pila.push("Apolo");
+    pila.push("Karen");
+    pila.push("Hotaru");
+    pila.push("Lalatina");
+    pila.push("Satzuki");
     int opcion;
     int permanecer = 1;
     bool repetir = true;
@@ -110,9 +110,9 @@ int main(int argc, char *argv[])
             break;
 
         case 2:
-            pila.push("Zeus");
-            pila.push("Kronos");
-            pila.push("Hefesto");
+            pila.push("Senko");
+            pila.push("Uzaki");
+            pila.push("Tejina");
             getchar();
             break;
 
